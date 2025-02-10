@@ -28,10 +28,12 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 [![Tech Stack](https://skillicons.dev/icons?i=angular,aws,azure,bash,bootstrap,cs,css,django,docker,dotnet,dynamodb,elasticsearch,express,fastapi,figma,firebase,flask,gcp,git,github,githubactions,gitlab,grafana,html,js,jest,jquery,kubernetes,less,materialui,mongodb,mysql,nestjs,nodejs,npm,openshift,pnpm,postgres,postman,powershell,py,rabbitmq,react,redis,regex,sass,sqlite,sequelize,svg,tailwind,terraform,ts,visualstudio,vscode,vue,vuetify,wasm,webpack,yarn)](https://skillicons.dev)
 
 # Skystats
-[![Streak](http://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=material-palenight)](https://git.io/streak-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Farsky&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farsky&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Farsky215)](https://leetcode.com/Farsky215)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=clivetran&color=green&abbreviated=true)
