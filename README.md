@@ -32,6 +32,10 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 # Skyma
 
+<a href="https://www.credly.com/badges/22888306-6403-4332-8c8e-4fe73c0e0f1b">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 64px;" />
+</a>
+
 # Skytechs
 
 [![Tech Stack](https://skillicons.dev/icons?i=angular,aws,azure,bash,bootstrap,cs,css,django,docker,dotnet,dynamodb,elasticsearch,express,fastapi,figma,firebase,flask,gcp,git,github,githubactions,gitlab,grafana,html,js,jest,jquery,kubernetes,less,materialui,mongodb,mysql,nestjs,nodejs,npm,openshift,pnpm,postgres,postman,powershell,py,rabbitmq,react,redis,regex,sass,sqlite,sequelize,svg,tailwind,terraform,ts,visualstudio,vscode,vue,vuetify,wasm,webpack,yarn)](https://skillicons.dev)
