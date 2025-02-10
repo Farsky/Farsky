@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 ### Passionate, Transparent and Contributive
 
+![GitHub Views](https://komarev.com/ghpvc/?username=Farsky&color=orange&abbreviated=true)
+![Followers](https://img.shields.io/github/followers/Farsky.svg?style=social&label=Follow)
+
 # Skybrief
 Years of experience in Software Development makes me realize that in order to survive, you need to change, grow and collaborate. And I have all of them.
 
@@ -36,22 +39,16 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 # Skystats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farsky&theme=github_dark" alt="Stats" />
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farsky&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farsky&utcOffset=7&theme=github_dark" alt="Productive Time" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farsky&theme=github_dark" alt="Repos per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farsky&theme=github_dark" alt="Most Commit Languages" />
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farsky&utcOffset=7&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=material-palenight)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient)](https://github.com/Farsky/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farsky&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Farsky&show_icons=true)](https://github.com/Farsky/github-readme-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Farsky215)](https://leetcode.com/Farsky215)
-
-![GitHub Views](https://komarev.com/ghpvc/?username=clivetran&color=green&abbreviated=true)
 
 </div>
