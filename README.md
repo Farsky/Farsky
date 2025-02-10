@@ -39,13 +39,13 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 # Skystats
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farsky&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farsky&theme=nightowl)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farsky&utcOffset=7&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
+[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farsky&utcOffset=7&theme=nightowl)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Farsky&theme=ambient-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=ambient_gradient)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient)](https://github.com/Farsky/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stat)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Farsky&langs_count=8&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stat)
 
