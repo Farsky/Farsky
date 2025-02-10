@@ -43,7 +43,7 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farsky&utcOffset=7&theme=github_dark)](https://github-profile-summary-cards.vercel.app/demo.html)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Farsky&theme=ambient-gradient)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient)](https://github.com/Farsky/github-readme-stats)
 
