@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### Passionate, Transparent and Contributive
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Farsky&color=orange&abbreviated=true)
-![Followers](https://img.shields.io/github/followers/Farsky.svg?style=social&label=Follow)
 
 # Skybrief
 Years of experience in Software Development makes me realize that in order to survive, you need to change, grow and collaborate. And I have all of them.
@@ -39,16 +38,19 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 # Skystats
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farsky&theme=nightowl)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farsky&theme=solarized)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farsky&utcOffset=7&theme=nightowl)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farsky&utcOffset=7&theme=solarized)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=ambient_gradient)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stat)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=gruvbox_light)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Farsky&langs_count=8&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stat)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Farsky215)](https://leetcode.com/Farsky215)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stat)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Farsky&langs_count=8&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stat)
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Farsky215?theme=forest)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 </div>
