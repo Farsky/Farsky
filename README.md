@@ -47,7 +47,7 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=ambient_gradient)](https://github.com/Farsky/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Farsky&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stat)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Farsky&langs_count=8&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stat)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Farsky215)](https://leetcode.com/Farsky215)
 
