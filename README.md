@@ -1,4 +1,4 @@
-## Greetings from Farsky👋
+# Greetings viewer! I'm Farsky👋
 
 <!--
 **Farsky/Farsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My Tech Playground
+[![My Tech Playground](https://skillicons.dev/icons?i=angular,aws,azure,bash,cs,css,dotnet,git,github,githubactions,grafana,html,js,kubernetes,mongodb,mysql,nodejs,postgres,powershell,react,sqlite,tailwind,ts,vscode,webpack&theme=dark)](https://skillicons.dev)
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" class="tech-stack-icon" title="AWS" alt="AWS" style="width: 40px; height: 40px;" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" class="tech-stack-icon" title="Angular" alt="Angular" style="width: 40px; height: 40px;" />
@@ -49,3 +51,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" class="tech-stack-icon" title="TypeScript" alt="TypeScript" style="width: 40px; height: 40px;" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" class="tech-stack-icon" title="VueJS" alt="VueJS" style="width: 40px; height: 40px;" />
 </p>
+
+## My Metrics
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=material-palenight)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Code Consumption](https://github-readme-stats.vercel.app/api/top-langs/?username=Farsky&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Farsky)](https://leetcode.com/Farsky)
+
