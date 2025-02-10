@@ -36,6 +36,14 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 # Skystats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farsky&theme=github_dark" alt="Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farsky&utcOffset=7&theme=github_dark" alt="Productive Time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farsky&theme=github_dark" alt="Repos per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farsky&theme=github_dark" alt="Most Commit Languages" />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Farsky&theme=material-palenight)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farsky&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
