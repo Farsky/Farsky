@@ -30,6 +30,14 @@ I would love to make an impact wherever I go. Be it incident troubleshooting, pe
 
 I'm open to any techs, just give me time and I can figure them out on my own. Currently learning the AWS and Azure fundamentals. And Python for future opportunities.
 
+# Skytraits
+
+## Architect (INTJ-A)
+
+<img src="./architect.svg" />
+
+> Architects are imaginative and strategic thinkers, with a plan for everything. These thoughtful tacticians love perfecting the details of life, applying creativity and rationality.
+
 # Skyma
 
 <a href="https://www.credly.com/badges/22888306-6403-4332-8c8e-4fe73c0e0f1b">
