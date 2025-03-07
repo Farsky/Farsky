@@ -32,11 +32,43 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 # Skytraits
 
-## Architect (INTJ-A)
-
-<img src="./architect.svg" />
-
-> Architects are imaginative and strategic thinkers, with a plan for everything. These thoughtful tacticians love perfecting the details of life, applying creativity and rationality.
+<table>
+  <tr>
+    <th>Personality</th>
+    <th>Role</th>
+    <th>Strategy</th>
+  </tr>
+  <tr>
+    <td>Architect (INTJ-A)</th>
+    <td>Analysts</th>
+    <td>Confident Individualism</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="./architect.svg" />
+    </td>
+    <td>
+      <img src="./analysts.svg" />
+    </td>
+    <td>
+      <img src="./confident-individualism.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Architects are imaginative and strategic thinkers, with a plan for everything. These thoughtful tacticians love
+      perfecting the details of life, applying creativity and rationality.
+    </td>
+    <td>
+      Analysts embrace rationality and impartiality, excelling in intellectual debates and scientific or technological
+      fields. They are fiercely independent, open-minded, and strong-willed.
+    </td>
+    <td>
+      Those who prefer the Confident Individualism Strategy like doing things alone, choosing to rely on their own
+      skills and instincts instead of seeking contact with other people. They know what they are good at.
+    </td>
+  </tr>
+</table>
 
 # Skyma
 
