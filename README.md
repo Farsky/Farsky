@@ -32,6 +32,8 @@ I'm open to any techs, just give me time and I can figure them out on my own. Cu
 
 # Skytraits
 
+Source: https://www.16personalities.com/profiles/intj-a/m/mcksjvkyv
+
 <table>
   <tr>
     <th>Personality</th>
